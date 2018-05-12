@@ -1,0 +1,32 @@
+_repo: Sea-Hounds_33438
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33438-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Freeman, Lewis R. (Lewis Ransome)
+    alias: Freeman, Lewis Ransome
+    birthdate: 1878
+    deathdate: 1960
+    gutenberg_agent_id: '36405'
+    url: http://www.gutenberg.org/2009/agents/36405
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_R._Freeman
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2010-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33438'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Naval operations'
+tableOfContents: The men who changed ships -- "Firebrand" -- "Back from the jaws"
+  -- Hunting -- The convoy game -- Yank boat versus U-boat -- Adriatic patrol -- Patrol
+  -- "Q" -- The Whack and the Smack -- Bombed! -- Against odds -- Rounding up Fritz.
+title: Sea-Hounds
+url: http://www.gutenberg.org/ebooks/33438
